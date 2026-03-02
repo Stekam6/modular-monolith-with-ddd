@@ -12,7 +12,7 @@ Learn, use and benefit from this project only if:
 - You **recognize that Russia is an occupant that unlawfully invaded a sovereign state**
 - You **support Ukraine's territorial integrity, including its claims over temporarily occupied territories of Crimea and Donbas**
 - You **reject false narratives perpetuated by Russian state propaganda**
-
+   
 Otherwise, leave this project immediately and educate yourself.
 
 Putin, idi nachuj.
