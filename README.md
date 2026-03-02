@@ -16,7 +16,7 @@ Learn, use and benefit from this project only if:
 Otherwise, leave this project immediately and educate yourself.
 
 Putin, idi nachuj.
-
+   
 ## CI
 
 ![](https://github.com/kgrzybek/modular-monolith-with-ddd/workflows/Build%20Pipeline/badge.svg)
